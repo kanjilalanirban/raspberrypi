@@ -12201,3 +12201,16 @@ branch.main.remote=origin
 branch.main.merge=refs/heads/main
 [INFO 2025-03-18_01:34:09] TML Solution Studio: Github Remote Status: origin	https://github.com/kanjilalanirban/raspberrypi.git (fetch)
 origin	https://<personal access token hidden>@github.com/kanjilalanirban/raspberrypi.git (push)
+[INFO 2025-03-18_01:35:51] TML Solution Studio Started: DOCKERUSERNAME=anirbank, GITUSERNAME=kanjilalanirban, GITREPOURL=https://github.com/kanjilalanirban/raspberrypi.git, AIRFLOWPORT=9000
+[INFO 2025-03-18_01:35:51] TML Solution Studio: Docker Login Status: Error response from daemon: Get "https://registry-1.docker.io/v2/": unauthorized: incorrect username or password
+[INFO 2025-03-18_01:35:51] TML Solution Studio: Github Config Status: core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/kanjilalanirban/raspberrypi.git
+remote.origin.fetch=+refs/heads/main:refs/remotes/origin/main
+remote.origin.pushurl=https://<personal access token hidden>@github.com/kanjilalanirban/raspberrypi.git
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+[INFO 2025-03-18_01:35:51] TML Solution Studio: Github Remote Status: origin	https://github.com/kanjilalanirban/raspberrypi.git (fetch)
+origin	https://<personal access token hidden>@github.com/kanjilalanirban/raspberrypi.git (push)
